@@ -1,10 +1,8 @@
 <div align='center'>
- 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:bbf7d0,50:99f6e4,100:67e8f9&height=150&section=header&fontColor=ffffff&fontSize=40&fontAlignY=30)
- 
+  
 ### 🌱 장서윤(Seoyun Jang) 
 <br/>  
-
+<br/>  
 <div style="display: flex, height:180px">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pipisebastian&show_icons=true&locale=en" alt="pipisebastian" style="height:180px"  /> 
   <img align="center" align="center" style="height:180px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=pipisebastian&show_icons=true&locale=en&layout=compact" alt="pipisebastian" /> 
@@ -23,7 +21,6 @@
 <br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
-<br/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
